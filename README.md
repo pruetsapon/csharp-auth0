@@ -1,1 +1,0 @@
-# csharp-netcore-auth0-example
